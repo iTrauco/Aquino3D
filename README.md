@@ -8,7 +8,7 @@ A DC capstone project sneak peek.
 ## Write Code | Build Things | Blow Minds 
 ###
 
-## Gold Master Due: 2019-05-31 @ 17:00 EST/EDT
+## Gold Master: 2019-05-31 @ 17:00 EST/EDT
 Development repos and documentation will remain 'private' until the event. 
 
 ### Instructions
