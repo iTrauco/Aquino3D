@@ -1,5 +1,5 @@
 # capstone-aquino-3D
-A DC capstone project sneak peek.
+A DC capstone project sneak peek...
 
 <p align="center">
   <img src="https://github.com/iTrauco/Aquino3D/blob/master/Demo/digitalcrafts-main.png">
