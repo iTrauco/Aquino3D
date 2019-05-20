@@ -1,4 +1,4 @@
-# capstone-aquino-3D
+# Aquino3D
 A DC capstone project preview...
 
 <p align="center">
@@ -18,7 +18,7 @@ Development repos and documentation will remain 'private' until Demo Day.
 
 3. Clone this repo
 
-4. [In MeshLabs] File > "Open Project" > and select 'Aquino3D.mlp"
+4. [In MeshLabs] File > "Open Project" > and select 'Aquino3D.mlp'
 
 5. Enjoy!
 
