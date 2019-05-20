@@ -9,7 +9,7 @@ A DC capstone project sneak peek.
 ###
 
 ## Gold Master: 2019-05-31 @ 17:00 EST/EDT
-Development repos and documentation will remain 'private' until the event. 
+Development repos and documentation will remain 'private' until Demo Day. 
 
 ### Instructions
 1. [Download and install MeshLabs for MacOS](http://www.meshlab.net/)
